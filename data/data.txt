@@ -1,0 +1,4 @@
+Download the data from the below link:
+https://www.kaggle.com/datasets/mehmetsabrikunt/internet-service-churn
+
+NOTE: Please see this data set's applicable license for terms and conditions. Intel does not own the rights to this data set and does not confer any rights to it.
